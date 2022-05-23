@@ -1,0 +1,4 @@
+pr:
+  conventionalCommits: # this means I'll enforce conventional commit messages in PRs.
+  signedCommits: # this means I'll make sure all commits in PRs are signed with the 'Signed-off-by' trailer.
+  tasksList: # this means I'll verify completion of tasks list in PRs.
